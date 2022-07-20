@@ -350,7 +350,7 @@ class Translator extends SymfonyTranslator implements ITranslator
 	): string
 	{
 		if ($domain === null) {
-			$domain = 'messages';
+			$domain = 'unknown';
 		}
 
 		if ($id !== null) {
