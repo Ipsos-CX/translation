@@ -1,5 +1,5 @@
 {
-  "name": "marekhyps/translation",
+  "name": "ipsos/translation",
   "description": "Symfony/Translation integration for Nette Framework.",
   "type": "library",
   "keywords": [
